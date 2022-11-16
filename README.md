@@ -1,1 +1,1 @@
-# mavenApp-team3
+# maven-etech-application
